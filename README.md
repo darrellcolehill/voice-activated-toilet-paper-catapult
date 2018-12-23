@@ -1,5 +1,4 @@
-# alexa-toilet-paper-catapult
-Exactly what it sounds like, I made a voice controlled catapult that launches toilet paper.
+# catapult-release-mechanism
 DISCLAMER: This repository is intended for personal use so all necessary files are NOT included in this repository
 
 # Things you need (part list for catapult coming soon)
