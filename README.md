@@ -29,4 +29,10 @@ SSH into the Raspberry Pi a second time and cd into NodetoPy
 # Step 7 
 Run the node application by entering the following command: node app
 
+# Explanation
+1. AWS code (index.js) sends a GET request to the URL provided by ngrok which tunnels the request to port 3000 (which is where the node server is runnning on the RPI.
+2. The node server runs a python script (pySerialTest.py) that sends serial data to the arduino
+3. Arduino code turns a servo when serial data is sent from RPI
+Alexa > AWS function > ngrok URL > node server (port 3000 on RPI) > python script > arduino 
+
 
