@@ -21,7 +21,7 @@ Download ngrok by entering the following command: sudo wget https://bin.equinox.
 unzip ngrok, then run it by entering the following command: ./ngrok http 3000
 
 # Step 5
-Copy the address given by ngrok and enter it into the ENDPOINT variable in the AWS application titled "alexapoophelper1"
+Copy the address given by ngrok and paste it into the ENDPOINT variable in the AWS application titled "alexapoophelper1"
 
 # Step 6
 SSH into the Raspberry Pi a second time and cd into NodetoPy
