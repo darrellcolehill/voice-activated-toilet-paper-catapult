@@ -16,7 +16,7 @@ exports.handler = (event, context) => {
         console.log(`LAUNCH REQUEST`)
         context.succeed(
           generateResponse(
-            buildSpeechletResponse("then eat some indian food you libtard", true),
+            buildSpeechletResponse("then eat some indian food you dummy", true),
             {}
           )
           //code that tells the raspberry pi that the user invoked the skill
@@ -31,7 +31,7 @@ exports.handler = (event, context) => {
         switch(event.request.intent.name) {
           
             case "launchTP":
-             var endpoint = "http://d50652ae.ngrok.io/launchTP" // ENDPOINT GOES HERE
+             var endpoint = "API END POINT HERE" // ENDPOINT GOES HERE
             var body = ""
             http.get(endpoint, (response) => {
               //response.on('data', (chunk) => { body += chunk })
