@@ -1,5 +1,5 @@
 # catapult-release-mechanism
-DISCLAMER: This repository is intended for personal use so all necessary files are NOT included in this repository
+DISCLAMER: This repository is intended for personal use so all necessary files may NOT be included in this repository
 
 # Things you need (part list for catapult coming soon)
 1. Amazon Alexa
