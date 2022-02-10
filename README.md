@@ -1,7 +1,10 @@
 # catapult-release-mechanism
 DISCLAMER: This repository is intended for personal use so all necessary files may NOT be included in this repository
 
-# Things you need (part list for catapult coming soon)
+# Demo Video Link
+https://www.youtube.com/watch?v=5GQfHLDG2k8
+
+# Things you need
 1. Amazon Alexa
 2. Raspberry Pi (with internet accessibility)
 3. Arduino Uno
