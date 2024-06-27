@@ -1,4 +1,4 @@
-# catapult-release-mechanism
+# voice-activated-toilet-paper-catapult
 DISCLAMER: This repository is intended for personal use so all necessary files may NOT be included in this repository
 
 # Demo Video Link
