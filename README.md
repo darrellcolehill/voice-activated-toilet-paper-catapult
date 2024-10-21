@@ -2,7 +2,8 @@
 DISCLAMER: This repository is intended for personal use so all necessary files may NOT be included in this repository
 
 # Demo Video Link
-https://www.youtube.com/watch?v=5GQfHLDG2k8
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5GQfHLDG2k8/0.jpg)](http://www.youtube.com/watch?v=5GQfHLDG2k8 "Demo Video")
+
 
 # Things you need
 1. Amazon Alexa
